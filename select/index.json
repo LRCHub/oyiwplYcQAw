@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "#HE4DSHOT",
+  "base_artist": "砂塚あきら (CV: 富田美憂)",
+  "createdAt": "2026-03-01T02:12:26.447250Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "#HE4DSHOT",
+      "artist": "砂塚あきら (CV: 富田美憂)",
+      "has_synced": false,
+      "path": "select/pl_01_HE4DSHOT_砂塚あきら_(CV__富田美憂).txt"
+    }
+  ]
+}
